@@ -63,6 +63,10 @@ span.gen_f {
   font-weight: bold;
 }
 
+span.link_to_source {
+  font-size:x-small;
+}
+
 span.genus {
   font-weight: bold;
   color:orange;
